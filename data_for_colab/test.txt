@@ -1,0 +1,7 @@
+/content/darknet/data_for_colab/data/20.jpg
+/content/darknet/data_for_colab/data/37.jpg
+/content/darknet/data_for_colab/data/57.jpg
+/content/darknet/data_for_colab/data/69.jpg
+/content/darknet/data_for_colab/data/81.jpg
+/content/darknet/data_for_colab/data/94.jpg
+/content/darknet/data_for_colab/data/two.jpg

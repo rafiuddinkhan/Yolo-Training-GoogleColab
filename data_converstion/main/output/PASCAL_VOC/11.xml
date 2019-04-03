@@ -1,0 +1,26 @@
+<annotation>
+  <folder>input</folder>
+  <filename>11.png</filename>
+  <path>/Users/rafiuddinkhan/Desktop/Yolo_Series_youtube/data_converstion/main/input/11.png</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>286</width>
+    <height>300</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>helmet</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>84</xmin>
+      <ymin>7</ymin>
+      <xmax>149</xmax>
+      <ymax>42</ymax>
+    </bndbox>
+  </object>
+</annotation>
