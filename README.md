@@ -1,4 +1,6 @@
 # Yolo-Training-GoogleColab
+![yolo](https://user-images.githubusercontent.com/10113553/55484056-6a707d80-5645-11e9-919f-089026e82136.gif)
+
 ![yolo-google-colab](https://user-images.githubusercontent.com/10113553/55483057-71968c00-5643-11e9-8f72-c013e9a40dc7.jpg)
 
 Custom tiny-yolo-v3 training using your own dataset and testing the results using the google colaboratory.
