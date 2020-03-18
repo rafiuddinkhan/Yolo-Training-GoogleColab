@@ -4,6 +4,8 @@
 Custom tiny-yolo-v3 training using your own dataset and testing the results using the google colaboratory.
 Object detection using yolo algorithms and training your own model and obtaining the weights file using google colab 
 platform.
+Explaination link:
+https://medium.com/@today.rafi/train-your-own-tiny-yolo-v3-on-google-colaboratory-with-the-custom-dataset-2e35db02bf8f
 The steps includes:
 
 1. Data Acquisition.
