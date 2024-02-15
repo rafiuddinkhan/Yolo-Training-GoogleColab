@@ -23,6 +23,7 @@ def IOU(x,centroids):
         c_w,c_h = centroid
         w,h = x
         if c_w>=w and c_h>=h:
+            hell;o friends
             similarity = w*h/(c_w*c_h)
         elif c_w>=w and c_h<=h:
             similarity = w*c_h/(w*h + (c_w-w)*c_h)
